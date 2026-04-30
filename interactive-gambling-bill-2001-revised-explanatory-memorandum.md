@@ -6,16 +6,15 @@ source_file: Interactive_Gambling_Bill_2001_-_Revised_Explanatory_Memorandum.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Australia/1.%20Legislation/Interactive_Gambling_Bill_2001_-_Revised_Explanatory_Memorandum.pdf
 extracted_date: 2026-04-30
 jurisdiction: Australia
-description: Revised explanatory memorandum for the Interactive Gambling Bill 2001 setting out the bill’s outline, regulatory impact statement, abbreviations, and detailed notes on clauses, including offences, complaints mechanisms, industry codes, and advertising prohibitions.
+description: This revised explanatory memorandum outlines the purpose, policy rationale, financial and regulatory impacts, abbreviations, and clause-by-clause notes for the Interactive Gambling Bill 2001, including amendments made by the Senate.
+regulatory_body: Parliament of the Commonwealth of Australia
 ---
 
 # INTERACTIVE GAMBLING BILL 2001
 
 ## REVISED EXPLANATORY MEMORANDUM
 
-(Circulated by authority of the Minister for  
-Communications, Information Technology and the Arts,  
-Senator the Honourable Richard Alston)
+(Circulated by authority of the Minister for Communications, Information Technology and the Arts, Senator the Honourable Richard Alston)
 
 THIS MEMORANDUM TAKES ACCOUNT OF AMENDMENTS MADE BY THE SENATE TO THE BILL AS INTRODUCED
 
@@ -75,7 +74,7 @@ These factors underlie the concern of both the Commonwealth and the community ab
 
 Of particular concern is the presence of gambling in the home. Households with children have been early adopters of new interactive technology such as the Internet. Table 1 demonstrates the high level of Internet uptake in households with children.
 
-### Table 1: Internet access at home
+#### Table 1: Internet access at home
 
 |  | Nov 1998 | Nov 1999 |
 |---|---:|---:|
@@ -342,11 +341,11 @@ The scheme could be reviewed six months subsequent to the completion of the impl
 
 The following abbreviations are used in this explanatory memorandum:
 
-- **ABA:** Australian Broadcasting Authority
-- **Bill:** Interactive Gambling Bill 2001
-- **BSA:** Broadcasting Services Act 1992
-- **Radiocommunications Act:** Radiocommunications Act 1992
-- **Telecommunications Act:** Telecommunications Act 1997
+- ABA: Australian Broadcasting Authority
+- Bill: Interactive Gambling Bill 2001
+- BSA: Broadcasting Services Act 1992
+- Radiocommunications Act: Radiocommunications Act 1992
+- Telecommunications Act: Telecommunications Act 1997
 
 ## NOTES ON CLAUSES
 
@@ -360,11 +359,14 @@ Clause 1 provides that the Bill, when enacted, may be cited as the Interactive G
 
 Clause 2 provides for a staged commencement of the Bill.
 
-Part 2 of the Bill (which relates to the offence of providing an interactive gambling service to customers in Australia) will commence on the 28th day after the day on which the Bill receives the Royal Assent. This will provide industry with additional lead-time to put appropriate arrangements in place to avoid contravening the Bill.
+Part 2 of the Bill (which relates to the offence of providing an interactive gambling service to customers in Australia) will commence on the 28
+th day after the day on which the Bill receives the Royal Assent. This will provide industry with additional lead-time to put appropriate arrangements in place to avoid contravening the Bill.
 
-Part 2A of the Bill (which relates to the offence of providing Australian-based interactive gambling services to customers in designated countries) will also commence on the 28th day after the day on which the Bill receives the Royal Assent.
+Part 2A of the Bill (which relates to the offence of providing Australian-based interactive gambling services to customers in designated countries) will also commence on the 28
+th day after the day on which the Bill receives the Royal Assent.
 
-Part 7A of the Bill (which relates to the offence of advertising interactive gambling services in Australia) will also commence on the 28th day after the day on which the Bill receives the Royal Assent. This will provide industry with additional lead-time to put appropriate arrangements in place to avoid contravening the advertising prohibition.
+Part 7A of the Bill (which relates to the offence of advertising interactive gambling services in Australia) will also commence on the 28
+th day after the day on which the Bill receives the Royal Assent. This will provide industry with additional lead-time to put appropriate arrangements in place to avoid contravening the advertising prohibition.
 
 Part 3, sections 42, 43, 48, 49 and Part 5 of the Bill will commence on a date to be proclaimed, or six months after the day on which the Bill receives the Royal Assent, whichever is the earlier. These provisions relate to the complaints system for prohibited Internet gambling content, the compliance with industry codes and standards and on-line provider rules. This later commencement date will enable the industry and the ABA to develop industry codes or standards and ensure that Internet service providers are not subject to offences relating to non-compliance with codes and standards prior to such codes or standards being developed. The later commencement date takes into account the timeframes required to develop codes and standards due to minimum periods for public consultation on draft codes and standards provided for in the Bill.
 
@@ -617,4 +619,4 @@ The term is an integral part of the definition of prohibited Internet gambling c
 
 Standard access-prevention notices are issued by the ABA in the absence of a relevant code or standard dealing with designated Internet gambling matters.
 
-**Standard telephone service** The term ‘standard telephone service’ is defined in clause 4 to mean the same as the definition of the term in the Telecommunications (Consumer Protection and Service Standards) Act 1999. The definition of ‘standard’
+**Standard telephone service** The term ‘standard telephone service’ is defined in clause 4 to mean the same as the definition of the term in the Telecommunications (Consumer Protection and Service Standards) Act 1999. The definition of ‘standard
