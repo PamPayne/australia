@@ -6,20 +6,11 @@ source_file: Interactive_Gambling_Bill_2016_-_Explanatory_Memorandum.pdf
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Australia/1.%20Legislation/Interactive_Gambling_Bill_2016_-_Explanatory_Memorandum.pdf
 extracted_date: 2026-04-30
 jurisdiction: Australia
-description: This explanatory memorandum outlines the purpose, effect, human rights compatibility, and regulatory impact of the Interactive Gambling Amendment Bill 2016.
+description: This explanatory memorandum outlines the purpose, key amendments, human rights compatibility, and regulatory impact of the Interactive Gambling Amendment Bill 2016.
+regulatory_body: Parliament of the Commonwealth of Australia
 ---
 
-# INTERACTIVE GAMBLING AMENDMENT BILL 2016
-
-2016
-
-THE PARLIAMENT OF THE COMMONWEALTH OF AUSTRALIA
-
-HOUSE OF REPRESENTATIVES
-
-INTERACTIVE GAMBLING AMENDMENT BILL 2016
-
-EXPLANATORY MEMORANDUM
+# INTERACTIVE GAMBLING AMENDMENT BILL 2016 EXPLANATORY MEMORANDUM
 
 (Circulated by authority of the Minister for Communications  
 Senator the Honourable Mitch Fifield)
@@ -120,11 +111,11 @@ The Bill is not expected to have any significant impact on Commonwealth expendit
 
 Prepared in accordance with Part 3 of the Human Rights (Parliamentary Scrutiny) Act 2011
 
-### Interactive Gambling Amendment Bill 2016
+# Interactive Gambling Amendment Bill 2016
 
 This Bill is compatible with the human rights and freedoms recognised or declared in the international instruments listed in section 3 of the Human Rights (Parliamentary Scrutiny) Act 2011.
 
-### Overview of the Bill
+## Overview of the Bill
 
 The Interactive Gambling Amendment Bill 2016 (the Bill) will amend the Interactive Gambling Act 2001 (the IGA) to implement the Government’s response to the 2015 Review of the Impact of Illegal Offshore Wagering (the Review).
 
@@ -143,7 +134,7 @@ The amendments in the Bill will clarify the law regarding illegal offshore gambl
 
 Specific measures in the Bill which engage human rights and consideration of the implications of those measures are outlined below.
 
-### Human Rights Implications
+## Human Rights Implications
 
 The IGA Bill engages the following human rights under the International Covenant on Civil and Political Rights (ICCPR):
 
@@ -256,7 +247,7 @@ These limitations around the kinds of information that can be disclosed ensure t
 
 The measures proposed by Items 3-5 of the Bill are consistent with the human rights recognised in Article 17 of the ICCPR.
 
-### Conclusion
+## Conclusion
 
 The Bill is compatible with human rights because to the extent that it may limit human rights, those limitations are reasonable, necessary and proportionate.
 
@@ -329,51 +320,55 @@ The RIS outlines the problem of illegal offshore gambling on Australia, why gove
 
 This RIS was included in the exposure draft of the Interactive Gambling Amendment Bill released to selected industry, responsible gambling and government stakeholders on 22 September 2016. Comments from stakeholders have been used to finalise this RIS.
 
-### 1. The problem
+## 1. The problem
 
 Australians are among the biggest gamblers in the world, spending $1,245 per capita in 2014
 1.
 
 Online gambling, in particular online wagering (betting on racing and sporting events), is growing in Australia due to the ubiquity of mobile devices and changes in consumer behaviour. Consequently, offshore gambling operators target Australians which leads to negative social and economic effects on industry, racing and sporting associations, problem and at-risk gamblers, consumers and government. The key legislation – the IGA – which was enacted in 2001, has been ineffective in stopping offshore operators from providing interactive gambling services to Australians.
 
-#### Size and growth of the interactive gambling market
+### Size and growth of the interactive gambling market
 
 An overwhelming majority of Australians are internet users. A recent ACMA report states that 92 per cent of Australians went online in the six months to May 2015. At May 2015, 13.41 million Australian adults (74 per cent) were estimated to be using a smartphone compared to 12.07 million (67 per cent) at May 2014
-2. This high uptake in digital technologies has contributed to an increasing number of Australians using interactive gambling services.
+2
+. This high uptake in digital technologies has contributed to an increasing number of Australians using interactive gambling services.
 
 In Australia, the total amount spent on all forms of interactive gambling was $2.4 billion in 2014, which includes both onshore and illegal offshore gambling activities. Figure 1 below shows that online gambling expenditure has more than doubled in Australia since 2004.
 
-#### Figure 1 Interactive gambling expenditure 2004-2014
+### Figure 1 Interactive gambling expenditure 2004-2014
 
 Source: 2015 Review of the impact of Illegal Offshore Wagering
 
-1 All data and diagrams are drawn from the 2015 Review of the Impact of Illegal Offshore Wagering Report unless otherwise stated.  
-2 ACMA Communications Report 2014-15, pages 3 and 42
+1  
+All data and diagrams are drawn from the 2015 Review of the Impact of Illegal Offshore Wagering Report unless otherwise stated.  
+2  
+ACMA Communications Report 2014-15, pages 3 and 42
 
 The Review stated that one study estimated the prevalence of interactive gambling in Australia in 2010-11 was eight per cent, while in 2013 a report suggested that the rate of interactive gambling was 21 per cent of the population. Stakeholder feedback in the Review indicated that online gambling is growing as a result of a shift from land-based channels to online channels, in line with broader trends in the economy. The most common way of betting interactively in 2013 was via a personal computer or laptop, followed by a smartphone.
 
-#### Wagering services
+### Wagering services
 
 Wagering is defined as gambling on the outcome, or on a contingency, in racing, sporting or other events. Wagering is presently a relatively small part of the overall gambling market in Australia but it is the fastest growing segment. In 2013-14, overall expenditure on wagering in Australia was $3.4 billion. Just under half of all wagering expenditure was conducted online ($1.4 billion), and this is growing at a rate of 15 per cent per annum. The growth in onshore online wagering over the last ten years is substantial, with the market increasing around seven times from under $200 million to almost $1.4 billion, as shown in Figure 2 below. The Review found that the number of active online wagering accounts in Australia has grown four-fold during the period 2004 to 2014 from 200,000 to 800,000. Many people have more than one account.
 
-#### Figure 2 Onshore online wagering 2004-2014
+### Figure 2 Onshore online wagering 2004-2014
 
 Source: 2015 Review of the impact of Illegal Offshore Wagering
 
-#### Money spent with offshore gambling operators
+### Money spent with offshore gambling operators
 
 The Review found that estimating the size of the offshore wagering market is challenging given the number of offshore sites, operators and jurisdictions that must be considered. Estimates of offshore wagering ranged from $63.9 million to $400 million in 2014 (compared to the overall expenditure on wagering in Australia of $3.4 billion in 2014). Global Betting Gaming Consultants (GBGC) claimed the market has decreased to $63.9 million since 2004 as a result of major overseas operators obtaining a licence in Australia and being legally allowed to advertise their services. H2 Gambling Capital, however, claim that their figure of $400 million expenditure is expected to grow to $910 million by 2020.
 
-#### Figure 3 Onshore and offshore wagering expenditure 2008-2014
+### Figure 3 Onshore and offshore wagering expenditure 2008-2014
 
 Source: 2015 Review of the impact of Illegal Offshore Wagering
 
 The 2012 Review of the Interactive Gambling Act 2001 estimated the amount of money being spent on all prohibited gambling services based overseas (including casino style games such as blackjack and roulette) to be just under $1 billion annually
-3.
+3
+.
 
 The Review stated that some 400 overseas hosted websites offer prohibited online interactive gambling services to Australians. The majority of these services are provided by operators licensed in overseas jurisdictions including Curacao, Malta, Gibraltar, Costa Rica and the Philippines. Many of these websites accept Australian currency and directly advertise to Australians despite offering services prohibited under the IGA.
 
-#### Negative social and economic effects of illegal offshore wagering
+### Negative social and economic effects of illegal offshore wagering
 
 Despite the range of figures, the report states that illegal offshore wagering has adverse effects on the Australian licensed wagering industry, racing and sporting organisations, government and consumers without seeking to quantify the effects. These include:
 
@@ -383,7 +378,7 @@ Despite the range of figures, the report states that illegal offshore wagering h
 - Increased risk of money laundering and other criminal activities as offshore providers operate outside of Australian law; and
 - Offshore operators provide gambling services that breach the IGA.
 
-#### Problem gambling
+### Problem gambling
 
 A major concern in the Review was around the limited harm minimisation and consumer protection controls offered by offshore gambling providers. Some offshore websites do not offer a level of protection for problem, at-risk and underage gambling. Many consumers can also be unaware that offshore sites they are using are not licensed in Australia and that there is limited legal recourse if they run into any difficulties obtaining winnings or deposits.
 
@@ -396,7 +391,7 @@ However, the Review noted there is insufficient evidence to establish a causal l
 
 Many of the risk factors for problem gambling associated with online gambling may be heightened for gamblers who use mobile and supplementary devices. These include the convenience and easy accessibility and availability of gambling, enhanced privacy, perceived anonymity, and the reduced salience of electronic funds (Gainsbury et al., 2012; MacKay & Hodgins, 2012; Svensson & Romild, 2011; Wood, Williams, & Parke, 2012).
 
-#### Minimal enforcement of the Interactive Gambling Act
+### Minimal enforcement of the Interactive Gambling Act
 
 Online gambling (mostly wagering and lottery services) is currently regulated in Australia by a combination of state and territory, and Commonwealth laws. State and territory governments are responsible for the regulation, licensing and most consumer protection measures for legal online gambling services. The Commonwealth’s IGA limits the types of interactive gambling services that can be offered to Australians. Unfortunately, the IGA has been ineffective in stopping the provision of prohibited interactive gambling services.
 
@@ -404,7 +399,7 @@ There have been no prosecutions under the IGA since its inception despite the si
 
 This issue of enforcement was highlighted in 2015 when a number of Australian licensed wagering operators launched ‘click to call’ in-play betting services.
 
-#### ‘Click to call’ in-play betting services
+### ‘Click to call’ in-play betting services
 
 The IGA prohibits online in-play betting (bets placed after the commencement of play) on sporting events, e.g. AFL, NRL, cricket or tennis matches. A sporting event provides a greater opportunity for a larger number of bets to be placed via the internet which goes against the intent of the IGA to minimise the scope of problem gambling amongst Australians. However, in-play betting is allowed via the telephone as calling a live operator is likely to slow down the betting activity of the customer and therefore reduce the risk to problem and at-risk gamblers.
 
@@ -414,13 +409,17 @@ There were two variations of ‘click to call’ services. One allowed a consume
 
 The ACMA assessed these services as potentially a prohibited interactive gambling service under the IGA and referred the matters to the AFP for investigation. The AFP declined to investigate and the services continued to be offered to consumers until 5 October 2016 when a ban was in put place by the Northern Territory Government in response to the Commonwealth Government’s intention to prohibit these services.
 
-#### Betting on sporting events, in-play betting and problem gambling
+### Betting on sporting events, in-play betting and problem gambling
 
-The Australian Gambling Statistics (32nd Edition released in August 2016), prepared by the Queensland Governments Statisticians Office (Queensland Treasury), revealed that Australians lost almost $23 billion to gambling in 2014-15, up nearly eight per cent on the previous year. Poker machines accounted for $12 billion; Racing $3 billion; and Lotto nearly $2 billion. Sports betting accounted for $814 million, which while smaller than the other gambling products at around 3.5 percent of total gambling losses, was a 30 per cent increase on the previous year. Dr Charles Livingstone, a gambling researcher at Monash University’s School of Public Health and Preventative Medicine, stated that ‘the massive growth in sports betting is unrivalled, I think, in the history of Australian gambling’
-5.
+The Australian Gambling Statistics (32
+nd
+Edition released in August 2016), prepared by the Queensland Governments Statisticians Office (Queensland Treasury), revealed that Australians lost almost $23 billion to gambling in 2014-15, up nearly eight per cent on the previous year. Poker machines accounted for $12 billion; Racing $3 billion; and Lotto nearly $2 billion. Sports betting accounted for $814 million, which while smaller than the other gambling products at around 3.5 percent of total gambling losses, was a 30 per cent increase on the previous year. Dr Charles Livingstone, a gambling researcher at Monash University’s School of Public Health and Preventative Medicine, stated that ‘the massive growth in sports betting is unrivalled, I think, in the history of Australian gambling’
+5
+.
 
 The Victorian Responsible Gambling Foundation (VRGF) conducted a prevalence study of gambling and health in Victoria in 2014. The most popular location for sports betting was over the internet at 52 per cent; followed by 45 per cent in a TAB; 24 per cent in pubs or hotels; 9 per cent via the telephone; 8 per cent in clubs; and 7 per cent at the racetrack
-6.
+6
+.
 
 The uptake of mobile devices, and its use for gambling activity with continuous access, including to financial transfers, may exacerbate the incidence and severity of problem gambling in Australia, particularly among younger people. Over the internet was the most common channel used by those classified as problems gamblers who participated in sports betting (71 per cent), followed by TAB outlet betting (46 per cent) and pubs or hotels (23 per cent).
 7
@@ -431,19 +430,23 @@ The Victorian prevalence study found that, of problem gamblers who bet online:
 - 33 per cent bet on table games;
 - 15 per cent bet on gaming machines; and
 - less than one per cent bet on keno
-8.
+8
+.
 
 In an ABC online article published on 28 May 2015, Dr Christopher Hunt, a clinical psychologist at the University of Sydney's Gambling Treatment Clinic stated that the bulk of their clients used to be poker machine addicts, but now they are treating mostly young men in trouble with online betting. Dr Hunt stated ‘when I first started, we pretty much never saw anyone of that 18 to 25-year-old demographic, but what we've seen is a dramatic increase, especially over the past three, four years. It seems to be young men who are getting themselves into trouble, and I guess that's particularly related to the fact that it's tied to sports and horse betting, because those sorts of gambling are almost always men's preferred forms of gambling.’
 9
 
 The Australian Wagering Council, the peak industry body representing Australia's online wagering industry including operators that were offering ‘click to call’ in-play betting services, reported that around 120,000 Australian consumers were using ‘click to call’ in-play betting products since their introduction in 2015
-10. Figures reported in the Australian newspaper on 16 August 2016 showed that the five operators offering online in-play betting (William Hill, Ladbrokes, bet365, Sportsbet and Unibet) were making as much as $500,000 a week from the product, based on figures suggesting it accounted for three per cent of their gross profit on bets
-11.
+10
+. Figures reported in the Australian newspaper on 16 August 2016 showed that the five operators offering online in-play betting (William Hill, Ladbrokes, bet365, Sportsbet and Unibet) were making as much as $500,000 a week from the product, based on figures suggesting it accounted for three per cent of their gross profit on bets
+11
+.
 
 As ‘click to call’ in-play betting products were introduced only recently in Australia, the potential effects on problem and at-risk gamblers are relatively unknown. However, the VRGF has stated the following on the matter of ‘click to call’ services, in play wagering and the potential effects on problem gambling in Australia.
 
 ‘Internet enabled live in-play betting is a relatively new phenomenon and no definitive research on how dangerous it is compared to other forms of gambling is yet published. However, the possibilities offered by the speed of the internet and app interfaces mean that it is a qualitatively different product to the other channels used for making in-play bets. It is continuously accessible, it is amenable to push messages/offers that interact with the actual stream of betting someone is doing, and its speed and flexibility make it more suitable to a much wider range of “events” that can be bet upon’
-12.
+12
+.
 
 The VRGF stated ‘Research on problem gambling has associated the most dangerous products with the ones that are most continuous, where the gap between placing the bet and learning the outcome are short, and where opportunities to keep betting keep flowing. The VRGF sees frequency of betting, and intensity of betting, where betting decisions are likely to be made on impulse or in heightened emotional states, as associated with harmful gambling. An environment where this sort of betting was available and being promoted to the sport viewing public at large, as well as to individual customers interacting with a bookmaker, would not be fostering responsible gambling. Such an environment would be undermining responsible gambling’.
 
@@ -456,7 +459,7 @@ In its submission to the Review, Financial Counselling Australia stated that in 
 
 Financial Counselling Australia stated that ‘from a harm minimisation perspective, the most appropriate option is to ban in-play betting, online casinos, fantasy games, and other emerging forms of online gambling’.
 
-### 2. The need for government action
+## 2. The need for government action
 
 There is a clear need for government action as a key cause for the current problems is the ineffectiveness of the IGA. The objective of the IGA is to stop the provision and advertising of interactive gambling services to persons located in Australia. It was acknowledged by the majority of industry, government and community stakeholders in the Review that the IGA is not delivering its objective and reforms are needed.
 
@@ -477,7 +480,7 @@ IGA reforms would contribute to:
 
 Government intervention is not only required to address issues associated with illegal offshore gambling but also within the Australian licensed gambling industry. Clear and enforceable provisions are required to ensure the integrity of the Australian interactive gambling industry and the burgeoning wagering sector.
 
-#### Constraints and barriers
+### Constraints and barriers
 
 There are a number of practical and legal challenges with pursuing enforcement actions against any entity with no Australian presence. As previously mentioned, the majority of prohibited interactive gambling services are provided by overseas based operators which presents the following challenges for enforcement agencies:
 
@@ -488,48 +491,41 @@ There are a number of practical and legal challenges with pursuing enforcement a
 
 The availability of new enforcement options is likely to prove a significant deterrent to both Australian and overseas based operators. However, due to the challenges outlined above, the responsible enforcement agency may not be able to obtain a successful outcome in all cases.
 
-#### ‘Click to call’ in-play betting services
+### ‘Click to call’ in-play betting services
 
 On 28 April 2016, the Government committed to closing down ‘click to call’ in-play betting services as they undermine the intent of the IGA to limit the scope of problem gambling in Australia. It was reported on 12 August 2016, that the Northern Territory Government had requested its licensed operators to cease providing ‘click to call’ in-play betting services within 28 days
-10. ‘Click to call’ services ceased being provided on 5 October 2016.
+10
+. ‘Click to call’ services ceased being provided on 5 October 2016.
 
 Legislation is required under the IGA to ensure ‘click to call’ type products are not offered by wagering operators licensed in other states or territories.
 
-### 3. Policy Options
+## 3. Policy Options
 
-#### Option 1: Maintain the status quo
+### Option 1: Maintain the status quo
 
 Leave the existing regulatory and enforcement framework unchanged. There would be no amendments to the provisions of the IGA and the AFP would remain as the lead enforcement agency.
 
-#### Option 2: Prohibit ‘click to call’ in-play betting services and strengthen enforcement
+### Option 2: Prohibit ‘click to call’ in-play betting services and strengthen enforcement
 
 Option Two reflects the Government’s response to the Review released on 28 April 2016. The Response agreed to legislative measures to prohibit ‘click to call’ in-play betting services and strengthen the enforcement of the IGA. A number of related amendments to further clarify the legality of services under the IGA and to support the ACMA’s expanded enforcement role would also be included.
 
-#### Option 3: Greater enforcement action by the AFP
+### Option 3: Greater enforcement action by the AFP
 
 Provide the AFP with more resources to prioritise and conduct investigations of interactive gambling services.
 
-### 4. Impact Analysis
+## 4. Impact Analysis
 
-#### Option 1: Maintain the status quo
+### Option 1: Maintain the status quo
 
-##### Description
+#### Description
 
 Leave the existing regulatory and enforcement framework unchanged.
 
-##### Analysis
+#### Analysis
 
-Benefits Shortcoming
-
-- Five Australian wagering operators would continue to receive revenue from ‘click to call’ in-play betting services.
-
-- Gambling operators will continue to ignore the provisions and intent of the IGA.
-- Gambling money spent with offshore operators resulting in loss of revenue for Australian licensed operators; loss of taxation revenue and sporting/racing payments.
-- Limited to no harm minimisation and consumer protection controls for Australian consumers.
-- Risk to integrity of Australian sport as offshore operators do not share information with sporting codes and organisations around suspicious betting activities
-- Increased risk of money laundering and other criminal activities as offshore providers operate outside of Australian law
-- Provision of prohibited interactive gambling services to Australians.
-- Prohibiting ‘click to call’ services may see a percentage of money being spent with offshore providers on in-play betting products.
+| Benefits | Shortcoming |
+|---|---|
+| • Five Australian wagering operators would continue to receive revenue from ‘click to call’ in-play betting services. | • Gambling operators will continue to ignore the provisions and intent of the IGA.  • Gambling money spent with offshore operators resulting in loss of revenue for Australian licensed operators; loss of taxation revenue and sporting/racing payments.  • Limited to no harm minimisation and consumer protection controls for Australian consumers.  • Risk to integrity of Australian sport as offshore operators do not share information with sporting codes and organisations around suspicious betting activities  • Increased risk of money laundering and other criminal activities as offshore providers operate outside of Australian law  • Provision of prohibited interactive gambling services to Australians.  • Prohibiting ‘click to call’ services may see a percentage of money being spent with offshore providers on in-play betting products. |
 
 The status quo is not feasible and there are significant short comings to a ‘do-nothing’ option. As mentioned previously, Australians lost up to an estimated $400 million betting with offshore wagering operators in 2014, and this is expected to increase to $910 million by 2020. These figures do not include the amount of money being spent on prohibited interactive gambling services such as online casinos, poker and lotteries. The 2012 Review of the Interactive Gambling Act 2001 estimated the total money spent on all illegal interactive gambling services with offshore operators to be just under $1 billion annually.
 
@@ -539,21 +535,19 @@ Most stakeholders across all sectors agree that the IGA is ineffective in stoppi
 
 The five Australian licensed providers of ‘click to call’ in-play betting services would continue to benefit from offering this product. The effects of these products on problem gambling is currently unknown but allowing these services to continue could pose a risk to problem and at-risk gamblers.
 
-##### Regulatory Costs
+#### Regulatory Costs
 
 There would be no change to regulatory costs by maintaining the status quo.
 
 **Option 1: Average annual regulatory costs**
 
-Change in costs ($ million)
+| Change in costs ($ million) | Business | Community organisations | Individuals | Total change in costs |
+|---|---:|---:|---:|---:|
+| Total, by sector | $ 0 | $ 0 | $ 0 | $ 0 |
 
-Business Community organisations Individuals Total change in costs
+### Option 2: Prohibit ’click to call’ in-play betting services and strengthen enforcement
 
-Total, by sector $ 0 $ 0 $ 0 $ 0
-
-#### Option 2: Prohibit ’click to call’ in-play betting services and strengthen enforcement
-
-##### Description
+#### Description
 
 Option Two reflects the Government’s response to the 2015 Review of the impact of Illegal Offshore Wagering released on 28 April 2016. The Response agreed to legislative measures to prohibit ‘click to call’ in-play betting services and strengthen the enforcement of the IGA. These enforcement measures are as follows:
 
@@ -566,40 +560,33 @@ Option Two reflects the Government’s response to the 2015 Review of the impact
 
 The proposed amendments will give effect to the 2013 election commitment made by the Government in its Policy to Help Problem Gamblers (August 2013) to investigate options to strengthen the enforcement of the IGA to protect Australians from illegal gambling operators.
 
-##### Analysis
+#### Analysis
 
-Benefits Shortcomings
+| Benefits | Shortcomings |
+|---|---|
+| • Stronger enforcement action against breaches of the IGA.  • Clear message to operators and associates that the Australian government is serious about compliance with its gambling laws.  • Clearer IGA provisions give more certainty to gambling operators and enforcement agencies.  • Prohibition of ’click to call’ in-play betting services reducing the risk of higher rates of problem and at-risk gambling.  • Decreased loss of money going offshore leading to more revenue for licensed operators, and greater taxation and fees paid in Australia.  • Potentially decreases risk to integrity of Australian sport, money laundering and other criminal activities.  • Greater awareness amongst Australian consumers of the risks of gambling offshore.  • Greater awareness of Australian gambling laws amongst offshore operators and regulators. | • Cross jurisdictional issues will continue to impede prosecution - enforcing Australian law overseas is challenging and successful outcomes will not always be possible.  • Prohibiting ’click to call’ services may financially impact Australian licensed online wagering operators and money may be wagered with offshore providers which could increase risks to the integrity of Australian sport. |
 
-- Stronger enforcement action against breaches of the IGA.
-- Clear message to operators and associates that the Australian government is serious about compliance with its gambling laws.
-- Clearer IGA provisions give more certainty to gambling operators and enforcement agencies.
-- Prohibition of ’click to call’ in-play betting services reducing the risk of higher rates of problem and at-risk gambling.
-- Decreased loss of money going offshore leading to more revenue for licensed operators, and greater taxation and fees paid in Australia.
-- Potentially decreases risk to integrity of Australian sport, money laundering and other criminal activities.
-- Greater awareness amongst Australian consumers of the risks of gambling offshore.
-- Greater awareness of Australian gambling laws amongst offshore operators and regulators.
-
-- Cross jurisdictional issues will continue to impede prosecution - enforcing Australian law overseas is challenging and successful outcomes will not always be possible.
-- Prohibiting ’click to call’ services may financially impact Australian licensed online wagering operators and money may be wagered with offshore providers which could increase risks to the integrity of Australian sport.
-
-##### Prohibit ‘click to call’ in-play betting services
+#### Prohibit ‘click to call’ in-play betting services
 
 The IGA prohibits online in-play betting (bets placed after the commencement of play) on sporting events, e.g. AFL, NRL, cricket or tennis matches. In 2015 and 2016, five Australian licensed wagering operators (William Hill, SportsBet, bet365, Ladbrokes and Unibet) offered ‘click to call’ in-play betting services which were a mix of data entry on websites or mobile smartphone applications with a voice call. These services claimed to avoid the operation of the prohibition of online in-play betting on sporting events in the IGA by relying on the telephone betting service exemption. The ACMA assessed these services as potentially a prohibited service under the IGA and referred the matter to the AFP for investigation.
 
 On 28 April 2016, the Government committed to closing down these services as they undermined the intent of the IGA to limit the scope of problem gambling in Australia. It was reported on 12 August 2016, that the Northern Territory Government had requested its licensed operators to cease providing ‘click to call’ in play betting services within 28 days
-11. ‘Click to call’ in-play betting services were discontinued on 5 October 2016. Legislation is required under the IGA to ensure ‘click to call’ type products are not offered by wagering operators licensed in other states or territories.
+11
+. ‘Click to call’ in-play betting services were discontinued on 5 October 2016. Legislation is required under the IGA to ensure ‘click to call’ type products are not offered by wagering operators licensed in other states or territories.
 
-##### Prohibit unlicensed gambling providers under the IGA
+#### Prohibit unlicensed gambling providers under the IGA
 
 The IGA prohibits interactive gambling services but does not address the issue of unlicensed overseas providers offering services permitted under the IGA. State and territory legislation requires a gambling provider located in that jurisdiction to acquire a gambling licence, however, as offshore gambling providers are not located in an Australian jurisdiction they appear to ignore this requirement.
 
 A new provision requiring gambling providers to be licensed by an Australian state or territory jurisdiction before providing interactive gambling services to persons located in Australia would provide clarity to international gambling operators and regulators around licensing requirements in Australia. It would also provide a simple to establish key criterion for enforcement agencies when investigating the legality of interactive gambling services.
 
-The new provision may create an incentive for reputable offshore online gambling operators to obtain a licence in Australia. These operators may not wish to jeopardise current or future licensing agreements in other jurisdictions and may decide to either obtain an Australian licence or withdraw their services.
+The new provision may create an incentive for reputable offshore online gambling operators to obtain a licence in Australia. These operators may not wish to jeopardise current or future
+
+licensing agreements in other jurisdictions and may decide to either obtain an Australian licence or withdraw their services.
 
 Other countries have taken a similar approach. France, for example, makes it clear that it is illegal, based on a domain geolocation, for a foreign online betting company to offer gambling products to French nationals. The UK has passed laws requiring all interactive gambling operators to be licensed with its regulator to provide services to UK residents or face enforcement action.
 
-##### ACMA to notify international regulators of illegal operations
+#### ACMA to notify international regulators of illegal operations
 
 The Review stated that some 400 overseas hosted websites offer prohibited online interactive gambling services, e.g. real money casino style games, to Australians. The majority of these services are provided by site operators licensed in overseas jurisdictions including Curacao, Malta, Gibraltar and Costa Rica. Overseas site operators and their regulators may not be aware that the operators are breaching Australian law.
 
@@ -607,6 +594,6 @@ This proposed measure would allow the ACMA to write to international regulators 
 
 The ACMA could seek to build productive relationships with international regulators to raise awareness of Australian gambling laws and receive assistance in any enforcement actions, e.g. obtaining evidence. For example, the Danish Gambling Authority has entered into agreements with Alderney, France, Gibraltar, Isle of Man, Malta and the United Kingdom. It would also be beneficial for these international regulators to form a relationship with the ACMA to ensure that Australian-based operators are not providing illegal gambling services into their jurisdictions.
 
-##### ACMA to issue civil penalties for breaches of the Act
+#### ACMA to issue civil penalties for breaches of the Act
 
 The IGA contains criminal offences and penalty provisions for providing and advertising interactive
